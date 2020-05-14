@@ -1,0 +1,5 @@
+O fluxo de cadastro é muito importante, pois sem o cadastro o usuário não consegue acessar a vitrine de produtos e consequentemente
+não consegue realizar pedidos. Existem vários campos críticos nesse fluxo que podem gerar bugs e acabar impedindo o cliente de prosseguir
+com o fluxo para realizar pedidos, por exemplo o código que é enviado ao celular, caso exista um bug, não é possível criar a conta, da mesma
+forma com os botões de cadastro com o facebook e com e-mail se não redirecionarem de forma correta, para o facebook ou para o formulário
+de cadastro o consumidor não vai conseguir realizar o cadastro.

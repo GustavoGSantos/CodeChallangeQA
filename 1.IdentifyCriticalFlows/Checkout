@@ -1,0 +1,3 @@
+O fluxo de checkout é muito crítico e importante, porque envolve toda a parte externa para realizar pagamentos e isso pode impedir o 
+cliente de finalizar um pedido. Além das partes externas, no fluxo de checkout podem ter erros em geração de boleto, redirecionamento 
+para formulário de inclusão de cartão, incluir cupom de desconto e endereço de entrega e seleção de métodos de pagamento.
